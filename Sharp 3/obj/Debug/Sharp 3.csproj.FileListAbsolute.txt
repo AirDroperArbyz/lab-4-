@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\Sharp 3\Sharp 3\obj\Debug\Sharp 3.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Sharp 3\Sharp 3\obj\Debug\Sharp 3.csproj.CoreCompileInputs.cache
