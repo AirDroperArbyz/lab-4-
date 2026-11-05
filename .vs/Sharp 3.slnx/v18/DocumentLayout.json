@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Sharp 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{566D6BDA-8F07-4F25-897F-23A64877B027}|Sharp 3\\Sharp 3.csproj|c:\\users\\user\\source\\repos\\sharp 3\\sharp 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{566D6BDA-8F07-4F25-897F-23A64877B027}|Sharp 3\\Sharp 3.csproj|solutionrelative:sharp 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{566D6BDA-8F07-4F25-897F-23A64877B027}|Sharp 3\\Sharp 3.csproj|c:\\users\\user\\source\\repos\\sharp 3\\sharp 3\\textservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{566D6BDA-8F07-4F25-897F-23A64877B027}|Sharp 3\\Sharp 3.csproj|solutionrelative:sharp 3\\textservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{566D6BDA-8F07-4F25-897F-23A64877B027}|Sharp 3\\Sharp 3.csproj|c:\\users\\user\\source\\repos\\sharp 3\\sharp 3\\texrparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{566D6BDA-8F07-4F25-897F-23A64877B027}|Sharp 3\\Sharp 3.csproj|C:\\Users\\user\\source\\repos\\Sharp 3\\sharp 3\\texrparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{566D6BDA-8F07-4F25-897F-23A64877B027}|Sharp 3\\Sharp 3.csproj|solutionrelative:sharp 3\\texrparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Sharp 3\\Sharp 3\\Program.cs",
+              "RelativeDocumentMoniker": "Sharp 3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Sharp 3\\Sharp 3\\Program.cs",
+              "RelativeToolTip": "Sharp 3\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-05T19:46:51.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TextService.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Sharp 3\\Sharp 3\\TextService.cs",
               "RelativeDocumentMoniker": "Sharp 3\\TextService.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TexrParser.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Sharp 3\\Sharp 3\\TexrParser.cs",
               "RelativeDocumentMoniker": "Sharp 3\\TexrParser.cs",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Sharp 3\\TexrParser.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T19:40:22.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T19:40:22.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Sharp 3\\Sharp 3\\Models.cs",
               "RelativeDocumentMoniker": "Sharp 3\\Models.cs",
